@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/twitter">
+
+    <fragment
+        android:id="@+id/twitter"
+        android:name="com.example.socialtrace.ui.twitter.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/snapchat"
+        android:name="com.example.socialtrace.ui.snapchat.DashboardFragment"
+        android:label="@string/title_dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/youtube"
+        android:name="com.example.socialtrace.ui.youtube.NotificationsFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/geo_trace"
+        android:name="com.example.socialtrace.ui.Geo_trace"
+        android:label="fragment_geo_trace"
+        tools:layout="@layout/fragment_geo_trace" />
+</navigation>

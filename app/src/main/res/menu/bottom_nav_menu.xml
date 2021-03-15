@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:iconTint="@color/text_blue"
+        android:id="@+id/twitter"
+        android:icon="@drawable/twitter_icon"
+        android:title="Twitter Map" />
+
+    <item
+        android:iconTint="@color/text_blue"
+
+        android:id="@+id/snapchat"
+        android:icon="@drawable/snapchat_icon"
+        android:title="Snapchat Map" />
+
+    <item
+        android:iconTint="@color/text_blue"
+        android:id="@+id/youtube"
+        android:icon="@drawable/youtube_icon"
+        android:title="Youtube Map" />
+    <item
+        android:iconTint="@color/text_blue"
+        android:id="@+id/geo_trace"
+        android:icon="@drawable/geo_icon"
+        android:title="Twitter Geo-Trace" />
+</menu>

@@ -1,0 +1,55 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <string name="app_name">Social Trace</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_turn_activity">Turn_activity</string>
+    <string name="title_activity_waiting_">Waiting_Activity</string>
+    <string name="view_profile"><u>View and Edit Profile</u></string>
+    <string name="forgot_password"><u>Forgot Password ???</u></string>
+    <string name="recieve"><b>Adsmixx</b> will recieve:</string>
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_credit__check__dashboard">Credit_Check_Dashboard</string>
+    <string name="title_activity_credit_check_dashboard">Credit_check_dashboard</string>
+    <string name="title_activity_sales_proc">Sales_proc</string>
+    <string name="title_activity_c_u_i">CUI</string>
+    <string name="title_activity_f_r_m_u">FRMU</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="title_activity_main__acitivity__reciever">Main_Acitivity_Reciever</string>
+
+
+    <!-- Default simple date format -->
+    <string name="simple_date_format" translatable="false">yyyy-MM-dd \'at\' HH:mm</string>
+
+    <!-- Title -->
+    <string name="label_datetime_dialog">DateTime</string>
+
+    <!-- deprecated, use android.R.string.ok and android.R.string.cancel instead -->
+    <string name="positive_button_datetime_picker">OK</string>
+    <string name="negative_button_datetime_picker">Cancel</string>
+
+    <!-- Image description -->
+    <string name="img_datetime">Image datetime</string>
+
+    <string name="hour_picker_description">Hours circular slider</string>
+    <string name="select_hours">Select hours</string>
+    <string name="minute_picker_description">Minutes circular slider</string>
+    <string name="select_minutes">Select minutes</string>
+    <string name="time_placeholder" translatable="false">--</string>
+    <string name="time_separator" translatable="false">:</string>
+
+    <string name="sans_serif" translatable="false">sans-serif</string>
+    <string name="radial_numbers_typeface" translatable="false">sans-serif</string>
+    <string name="deleted_key"><xliff:g example="4" id="key">%1$s</xliff:g> deleted</string>
+    <string name="title_activity_main_screen">Main_screen</string>
+    <string name="title_activity_main_display">MainDisplay</string>
+    <string name="title_activity_bottom_navigation">Bottom_navigation</string>
+</resources>
